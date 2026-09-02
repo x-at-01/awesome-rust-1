@@ -48,6 +48,7 @@
 
 ### 压缩
 
+* [fastalp](https://github.com/webc-site/wedb_embed/tree/main/fastalp) — 自适应无损浮点压缩（ALP）算法纯 Rust 实现，单核解压 55~77 GB/s，压缩 6.5 GB/s
 * [alexcrichton/bzip2-rs](https://github.com/alexcrichton/bzip2-rs) — [libbz2](http://www.bzip.org)绑定 [<img src="https://travis-ci.org/alexcrichton/bzip2-rs.svg?branch=master">](https://travis-ci.org/alexcrichton/bzip2-rs)
 * [alexcrichton/tar-rs](https://github.com/alexcrichton/tar-rs) — tar归档包读写 [<img src="https://travis-ci.org/alexcrichton/tar-rs.svg?branch=master">](https://travis-ci.org/alexcrichton/tar-rs)
 * [lifthrasiir/rust-zip](https://github.com/lifthrasiir/rust-zip) — ZIP归档包读写 [<img src="https://travis-ci.org/lifthrasiir/rust-zip.svg?branch=master">](https://travis-ci.org/lifthrasiir/rust-zip)
